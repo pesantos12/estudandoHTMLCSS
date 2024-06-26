@@ -1,0 +1,56 @@
+#youtube {
+    background-color: #CC0000;
+    color: white;
+    border: none;
+    padding: 12px 36px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+}
+
+#youtube:hover {
+    opacity: 0.8;
+}
+
+#youtube:active {
+    opacity: 0.5;
+}
+
+#facebook {
+    background-color: white;
+    padding: 11px 18px;
+    color: #065FD4;
+    border-style: solid;
+    border-color: #065FD4;
+    border-width: 1px;
+    border-radius: 2px;
+    margin-right: 8px;
+    cursor: pointer;
+    transition: background-color 0.2s, color 0.2s
+}
+
+#facebook:hover {
+    background-color: #065FD4;
+    color: white;
+}
+
+#facebook:active {
+    opacity: 0.7;
+}
+
+#twitter {
+    background-color: #1D9BF0;
+    border: none;
+    color: white;
+    padding: 12px 22px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: shadow 0.15s;
+}
+
+#twitter:hover {
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}

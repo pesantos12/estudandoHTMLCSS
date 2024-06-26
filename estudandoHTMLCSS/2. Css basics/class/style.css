@@ -1,0 +1,35 @@
+#youtube {
+    background-color: #CC0000;
+    color: white;
+    border: none;
+    height: 36px;
+    width: 115px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+}
+
+#facebook {
+    background-color: white;
+    height: 36px;
+    color: #065FD4;
+    border-style: solid;
+    border-color: #065FD4;
+    border-width: 1px;
+    border-radius: 2px;
+    width: 65px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+#twitter {
+    background-color: #1D9BF0;
+    border: none;
+    color: white;
+    height: 36px;
+    width: 70px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
