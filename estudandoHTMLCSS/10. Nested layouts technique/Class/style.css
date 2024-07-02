@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+    color: white;
+}
+
+body {
+    background-color: rgb(32, 32, 32);
+}
+
+.tumb {
+    width: 320px;
+    border-radius: 6px;
+}
+
+.logo {
+    width: 36px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+}
+.conteudo {
+    padding-top: 3px;
+}
+
+.info {
+    display: inline-block;
+    padding-left: 10px;
+}
+
+.titulo {
+    font-weight: 700;
+    color: white;
+    margin-bottom: 3px;
+    font-size: 15px;
+}
+
+.channel_name, .views {
+    font-size: 13px;
+    color: rgb(167, 167, 167);
+}

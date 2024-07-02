@@ -1,0 +1,33 @@
+html {
+    padding-bottom: 100px;
+}
+
+.ex1 {
+    display: grid;
+    grid-template-columns: 100px 1fr;
+    margin-bottom: 50px;
+}
+
+.c1 {
+    background-color: lightpink;
+}
+.c2 {
+    background-color: lightblue;
+}
+
+.ex2{
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr;
+    margin-bottom: 50px;
+}
+
+.ex3 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 30px;
+    row-gap: 40px;
+}
+
+.ex3 div {
+    height: 200px;
+}

@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.exercise1 {
+    margin-bottom: 50px;
+}
+
+.e1 {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.e1 img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.content1 {
+    font-size: 14px;
+    width: 160px;
+    padding-left: 12px;
+}
+
+.content1 p {
+    margin-bottom: 2px;
+}
+
+.name1 {
+    font-weight: 600;
+}
+
+.subname1 {
+    font-size: 13px;
+}
+
+.subname1, .tittle1 {
+    color: rgb(146, 146, 146);
+}
+.tittle1 {
+    font-size: 12px;
+}
+
+.e1 button {
+    background-color: rgb(68, 124, 254);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 7px 10px;
+}
+
+.searchvideos {
+    margin-bottom: 100px;
+}
+
+.video {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.tumb {
+    width: 280px;
+    border-radius: 8px;
+}
+.content {
+    padding: 4px 0 0 12px;
+    width: 240px;
+}
+
+.channel {
+    display: flex;
+    align-items: center;
+}
+.tittle {
+    margin-bottom: 6px;
+}
+.views {
+    margin-bottom: 12px;
+}
+.channel img {
+    width: 28px;
+    border-radius: 50%;
+    margin-right: 6px;
+}
+
+.views, .channel p {
+    color: gray;
+    font-size: 13px;
+}

@@ -1,0 +1,141 @@
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    margin-bottom: 50px;
+}
+
+.green {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+.enquete {
+    font-family: Arial;
+    border: 1px solid gray;
+    width: 300px;
+    height: 95px;
+    padding-left: 18px;
+    margin-bottom: 50px;
+}
+
+.install {
+    width: 360px;
+    background-color: rgb(53, 53, 53);
+    font-family: Arial;
+    padding: 5px 15px;
+    margin-bottom: 50px;
+}
+
+.install h2{
+    color: white;
+}
+
+.install p {
+    color: rgb(145, 145, 145);
+}
+
+.challenge1 {
+    width: 360px;
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 0 7px rgba(0, 0, 0, 0.35);
+    padding: 12px;
+    font-family: Arial;
+    margin-bottom: 50px;
+}
+.challenge1 img {
+    width: 40px;
+    border-radius: 50%;
+}
+
+.challenge1 input {
+    border: none;
+    padding: 0 80px 0 12px;
+}
+
+.challenge1 button {
+    background-color: rgb(37, 150, 255);
+    color: white;
+    border: none;
+    border-radius: 18px;
+    padding: 6px 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.challenge2 {
+    font-family: Arial;
+    width: 200px;
+    height: 310px;
+    margin-bottom: 50px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.challenge2 img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.info {
+    padding: 6px 0 0 8px;
+}
+
+.challenge2 h4 {
+    font-size: 16px;
+    margin: 0 0 8px 0;
+}
+
+.challenge2 p {
+    margin: 0 0 14px 0;
+    font-size: 14px;
+    color: rgb(105, 105, 105);
+}
+
+.challenge2 button {
+    margin: 0;
+    background-color: rgb(37, 150, 255);
+    color: white;
+    border: none;
+    padding: 8px 18px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.google {
+    font-family: Arial;
+    width: 400px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.google img {
+    width: 220px;
+    margin-bottom: 10px;
+}
+
+.google input {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
+    width: 380px;
+    padding: 10px 14px;
+    margin-bottom: 32px;
+}
+
+.google button {
+    background-color: rgb(230, 230, 230);
+    border: none;
+    padding: 10px;
+}
+
+.abc {
+    margin-right: 10px;
+}
